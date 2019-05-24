@@ -1,0 +1,4 @@
+package: .
+import:
+-package: "github.com/sacOO7/GoWebsocket"
+-package: "golang.org/x/net/websocket"
